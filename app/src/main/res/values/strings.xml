@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LandmarksFeed</string>
+    <string name="url">http://express-it.optusnet.com.au/sample.json</string>
+    <string name="transport_mode">Mode of Transport:</string>
+    <string name="navigate_button">Navigate</string>
+    <string name="time_by_car">Car - %s Mins</string>
+    <string name="time_by_train">Train - %s Mins</string>
+    <string name="no_connection">No Internet connection currently available, please try to reconnect</string>
+    <string name="server_error">Server error!</string>
+    <string name="no_maps">Couldn\'t find an app to open a map!</string>
+</resources>
